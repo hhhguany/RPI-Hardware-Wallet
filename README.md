@@ -17,3 +17,6 @@
 
 ## 硬件电路图
 ![image](https://github.com/udidi/RPI-Hardware-Wallet/blob/master/img/circuitry.svg)
+
+## 依赖项
+pyaltcointools：https://github.com/udidi/pyaltcointools.git
