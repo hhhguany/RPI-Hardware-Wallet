@@ -16,3 +16,4 @@
 4、将串口连接电脑，重启树莓派
 
 ## 硬件电路图
+![Alt text](https://github.com/udidi/RPI-Hardware-Wallet/blob/master/img/circuitry.svg)
