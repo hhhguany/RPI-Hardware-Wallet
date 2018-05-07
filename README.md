@@ -3,9 +3,10 @@
 
 ## 搭建步骤
 1、下载源码
-    git clone https://github.com/udidi/RPI-Hardware-Wallet.git \
-    
+
+    git clone https://github.com/udidi/RPI-Hardware-Wallet.git \    
 2、添加自启动
+
     sudo nano /etc/rc.local
   在"exit 0"之前加入以下语句：
 
